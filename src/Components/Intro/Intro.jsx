@@ -39,9 +39,9 @@ const Intro = () => {
                 </button>
 
                 <div className="i-icons">
-                    <a href="https://github.com/sadeed12345" target='_blank'><img src={Github} alt=""/></a>
-                    <a href="https://www.linkedin.com/in/sadeed-rehman-92b88a20a/" target='_blank'><img src={Linkdein} alt=""/></a>
-                    <a href="https://www.instagram.com/rehman_sadee?igsh=MWFqZjQxaWhnMGg3dg%3D%3D&utm_source=qr" target='_blank'><img src={ Instagram} alt=""/></a>
+                    <a href="https://github.com/sadeed12345" target='_blank' rel="noreferrer"><img src={Github} alt=""/></a>
+                    <a href="https://www.linkedin.com/in/sadeed-rehman-92b88a20a/" target='_blank' rel="noreferrer"><img src={Linkdein} alt=""/></a>
+                    <a href="https://www.instagram.com/rehman_sadee?igsh=MWFqZjQxaWhnMGg3dg%3D%3D&utm_source=qr" target='_blank' rel="noreferrer"><img src={ Instagram} alt=""/></a>
                     
                 </div>
         </div>

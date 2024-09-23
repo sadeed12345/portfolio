@@ -13,9 +13,9 @@ const Footer = () => {
             <span>sadeed1999@gmail.com</span>
             <div className="f-icons">
 
-               <a href='https://www.instagram.com/rehman_sadee?igsh=MWFqZjQxaWhnMGg3dg%3D%3D&utm_source=qr' target= '_blank'> <Insta color='white' size='3rem' /></a>
-               <a href='https://www.facebook.com/sadeed.rehman.10/' target= '_blank'> <FB color='white' size='3rem'/></a>
-               <a href='https://github.com/sadeed12345' target= '_blank'> <GitHub color='white' size='3rem'/></a>
+               <a href='https://www.instagram.com/rehman_sadee?igsh=MWFqZjQxaWhnMGg3dg%3D%3D&utm_source=qr' target= '_blank' rel="noreferrer"> <Insta color='white' size='3rem' /></a>
+               <a href='https://www.facebook.com/sadeed.rehman.10/' target= '_blank' rel="noreferrer"> <FB color='white' size='3rem'/></a>
+               <a href='https://github.com/sadeed12345' target= '_blank' rel="noreferrer"> <GitHub color='white' size='3rem'/></a>
             </div>
         </div>
     </div>
