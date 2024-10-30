@@ -22,7 +22,6 @@ const Services = () => {
         <div className="awesome">
             <span style={{color: darkMode? 'white':''}}>My Awesome</span>
             <span>Services</span>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit <br /> Voluptatum, sed expedita? Nihil nemo.</span>
             <a href={Resume} download><button className='button s-button'>Download CV</button></a>
             
             <div className='blur s-blur1' style={{background: "#ABF1FF94"}}></div>
